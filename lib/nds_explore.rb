@@ -12,7 +12,7 @@ def print_first_directors_movie_titles
   directors_database
   index = 0
   while index < directors_database.length do
-    directors_database[movies]
+    directors_database[:movies]
     index += 1
     ##this is printing the whole database
     #It's a HoAoH
