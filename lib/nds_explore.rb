@@ -15,7 +15,7 @@ def print_first_directors_movie_titles
     pp directors_database
     ##this is printing the whole database
     #It's a HoAoH
-    directors_database[:movie]
+    directors_database[:movies]
     index += 1
   end
 end
