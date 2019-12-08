@@ -16,5 +16,6 @@ def print_first_directors_movie_titles
    
     ##this is printing the whole database
     #It's a HoAoH
+    index += 1
   end
 end
