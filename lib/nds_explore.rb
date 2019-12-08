@@ -17,5 +17,5 @@ def print_first_directors_movie_titles
     #It's a HoAoH
     index += 1
   end
-  directors_database[:name][:movies][0]
+  directors_database
 end
