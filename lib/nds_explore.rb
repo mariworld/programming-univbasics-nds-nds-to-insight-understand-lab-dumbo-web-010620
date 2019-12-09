@@ -9,13 +9,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  directors_database
-  index = 0
-  while index < directors_database.length do
-    pp directors_database
-    ##this is printing the whole database
-    #It's a HoAoH
-    index += 1
-  end
   directors_database[0]
 end
+##this is printing the whole database
+    #It's a HoAoH
