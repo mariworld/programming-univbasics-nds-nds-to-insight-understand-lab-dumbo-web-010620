@@ -12,4 +12,4 @@ def print_first_directors_movie_titles
   pp directors_database[0]
 end
 ##this is printing the whole database
-    #It's a AoAoH
+    #It's a AoHoA
