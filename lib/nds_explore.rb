@@ -13,6 +13,7 @@ def print_first_directors_movie_titles
   while index < directors_database[0].length do
     pp directors_database[0][:movies][index][:title]
     index += 1
+  end
 end
 ##this is printing the whole database
     #It's a AoHoA
