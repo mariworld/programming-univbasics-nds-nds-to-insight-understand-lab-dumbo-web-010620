@@ -17,3 +17,5 @@ def print_first_directors_movie_titles
 end
 ##this is printing the whole database
     #It's a AoHoA
+#I used Repl to clean the NDS and access thing things I needed.
+#I could have explore how to find data that included "Steven" string
