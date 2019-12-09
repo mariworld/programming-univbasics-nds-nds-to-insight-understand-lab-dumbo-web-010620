@@ -9,7 +9,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  directors_database[0]
+  directors_database
 end
 ##this is printing the whole database
     #It's a HoAoH
